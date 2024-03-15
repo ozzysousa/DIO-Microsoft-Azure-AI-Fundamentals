@@ -13,7 +13,7 @@ Através deste recurso a Inteligência Artificial descreve o que esta presente n
 ...
 
 02 - O recurso trás algumas imagens de exemplo para que você realize testes do serviço e até mesmo a possibilidade de realizar upload de uma foto sua e ter a descrição, no meu caso adicionei uma foto minha para testes e o serviço me retorna a descrição do que identificou na imagem:   
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP02%20-Vis%C3%A3o%20Computacional/02.png" width=""/> 
+<img align="right" src="https://raw.githubusercontent.com/ozzysousa/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP02%20-Vis%C3%A3o%20Computacional/02.png" width=""/> 
 
 ...
 
