@@ -8,7 +8,7 @@
 Através deste recurso a Inteligência Artificial descreve o que esta presente na imagem, possibilitando assim que deficientes visuais saibam o que esta presente na foto ou video.
 
 01 - Dentro do Vision Studiona guia *Image analysis* clique na opção Add captions to imagens:   
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP02%20-Vis%C3%A3o%20Computacional/01.png" width=""/> 
+<img align="right" src="https://raw.githubusercontent.com/ozzysousa/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP02%20-Vis%C3%A3o%20Computacional/01.png" width=""/> 
 
 ...
 
